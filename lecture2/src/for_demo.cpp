@@ -19,17 +19,10 @@ int main()
     // пример с вектором (структуры данных)
     std::vector<int> v = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 19, 23, 26, 53, 96};
 
-    bool status = true;
-
-    while (status) {
-        if (status == false)
-            break;
-
-        std::cout << "One" << " two"; // произойдёт ли вывод?
-
-        status = false;
-
-        std::cout << "three " << "four"; // произойдёт ли вывод?
+    for (int i = 0; i < v.size(); i++)
+    {
+        std::cout << "Size: " << v.size() << std::endl;
+        std::cout << v[i];
     }
 
     for (const auto &item : v)

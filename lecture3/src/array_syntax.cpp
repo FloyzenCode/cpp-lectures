@@ -1,6 +1,7 @@
 #include <iostream>
 
 const int sizeArr = 256;
+
 int main()
 {
     int arrInt[10];      // Объявляется массив типа int из 10 элементов
