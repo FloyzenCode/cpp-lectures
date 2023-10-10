@@ -1,13 +1,14 @@
 #include <iostream>
 #include <random>
 
-double triangle_area(double a, double h);
+double triangle_area(double a, double h); // not templates
 
 int main()
 {
-    int a = 24, b = 100;
-    // std::cout << a << " " << b << std::endl;
-    std::cout << triangle_area(a, b) << std::endl;
+    double a = 24, b = 100;
+
+    std::cout << "a = " << a << "; b = " << b << ";" << std::endl;
+    std::cout << "S = " << triangle_area(a, b) << std::endl;
     return 0;
 }
 
