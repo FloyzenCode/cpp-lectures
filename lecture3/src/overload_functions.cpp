@@ -15,7 +15,7 @@ void foo(int p, double db)
     std::cout << p << " " << db;
 }
 
-void main()
+int main()
 {
     int a = 5, b = 20;
     double pi = 3.141592;
@@ -23,4 +23,5 @@ void main()
     foo(a);
     foo(a, b);
     foo(b, pi);
+    return 0;
 }
