@@ -1,0 +1,1 @@
+<div align="center"><h1><strong><a href="https://habr.com/ru/companies/otus/articles/594251/">C++20 Ranges — Полное руководство</a></strong></h1></div>
