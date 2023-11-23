@@ -66,6 +66,13 @@
     "random": "cpp",
     "__tree": "cpp",
     "map": "cpp",
-    "thread": "cpp"
+    "thread": "cpp",
+    "deque": "cpp",
+    "fstream": "cpp",
+    "iomanip": "cpp",
+    "list": "cpp",
+    "set": "cpp",
+    "stack": "cpp",
+    "unordered_set": "cpp"
   }
 }
