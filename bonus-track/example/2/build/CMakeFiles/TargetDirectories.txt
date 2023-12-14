@@ -1,3 +1,0 @@
-/Users/floyz/lessons/cpp/bonus-track/example/2/build/CMakeFiles/header_include_example.dir
-/Users/floyz/lessons/cpp/bonus-track/example/2/build/CMakeFiles/edit_cache.dir
-/Users/floyz/lessons/cpp/bonus-track/example/2/build/CMakeFiles/rebuild_cache.dir
