@@ -1,0 +1,3 @@
+/Users/floyz/lessons/cpp/bonus-track/example/3/build/CMakeFiles/server.dir
+/Users/floyz/lessons/cpp/bonus-track/example/3/build/CMakeFiles/edit_cache.dir
+/Users/floyz/lessons/cpp/bonus-track/example/3/build/CMakeFiles/rebuild_cache.dir
